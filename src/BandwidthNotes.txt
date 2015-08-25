@@ -1,0 +1,69 @@
+SpeakEasy
+15/15 Ethernet	$1199/mo
+10/10 Ethernet	$899/mo
+8/8 Ethernet	$869/mo
+5/5 Ethernet	$599/mo free installation
+3/3 Ethernet	$329/mo (3 yr contract)
+1.5/1.5 T1	$269/mo
+3/3 bonded T1	$598/mo
+
+DSL Extreme
+15/15 Ethernet	$1249/mo + $450 act fee 1-yr contract
+10/10 Ethernet	$989/mo + $450 act fee 1-yr contract
+8/8 Ethernet	$879/mo + $399 act fee 1-yr contract
+5/5 Ethernet	$629/mo + $399 act fee 1-yr contract
+3/3 Ethernet	$419/mo + $199 act fee 1-yr contract
+
+LaunchNet
+15/15 Ethernet	$1100/mo
+10/10 Ethernet	$850/mo
+5/5 Ethernet	$600/mo
+10/1 ADSL2+	$119.95/mo 1 yr contract, $200 early term fee, free install
+
+Covad/Megapath
+15/15 Ethernet	$1379/mo + $300 act fee
+10/10 Ethernet	$1209/mo + $300 act fee
+5/5 Ethernet	$809/mo + $300 act fee
+1.5/1.5 SDSL	$219/mo 1-year contract
+10/1 dedicated ADSL	$159/mo 1-year contract 
+Deals
+5/5 Ethernet	$599/mo (may be subject to 3yr contract)
+10/10 Ethernet	$899/mo (may be subject to 3yr contract)
+
+Verizon FiOS (non dedicated fiber)
+25/25 Fiber	$134.99/mo
+35/35 Fiber	$154.99/mo
+50/20 Fiber	$219.99/mo
+150/35 Fiber	$239.99/mo
+
+ATT Fiber
+Dedicated 10/10	$1108/mo 2 yr contract
+Uverse 6/1	$77/mo
+
+Towerstream (4G wireless)
+5/5 4G		$500/mo	2yr contract
+1.5/1.5 T1	$199/mo 3 yr contract
+
+Time Warner Dedicated Fiber
+5/5			$750/month 3 yr contract
+			$800/mo	2 yr contract
+10/10			$1000/mo 3 yr contract
+			$1100/mo 2 yr contract
+
+
+
+
+http://www.speakeasy.net/service/broadband/ethernet/
+https://www.dslextreme.com/ethernet_t1/business
+http://www.launchnet.com/ethernet.php
+http://www.covad.com/services/flyers/ethernet_flyer.html
+https://register.covad.com/registration/
+http://www.verizonbusiness.com/Medium/products/internet/fios/options.xml
+http://www.towerstream.com/Products.aspx
+
+
+
+
+
+
+
