@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+#ignore image directory
+src/images/
+
 # Folder config file
 Desktop.ini
 
